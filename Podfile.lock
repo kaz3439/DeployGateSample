@@ -1,0 +1,10 @@
+PODS:
+  - DeployGateSDK (1.0)
+
+DEPENDENCIES:
+  - DeployGateSDK (~> 1.0)
+
+SPEC CHECKSUMS:
+  DeployGateSDK: f77b50800e10e541584e618ab6adb2b3794758c1
+
+COCOAPODS: 0.33.1
